@@ -1,0 +1,11 @@
+.conteudo__principal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: auto;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 25px;
+    padding: 1rem;
+    margin: 2rem;
+}

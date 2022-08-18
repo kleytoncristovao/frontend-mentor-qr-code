@@ -1,0 +1,7 @@
+.principal__titulo {
+    font-size: 2rem;
+    padding: 1rem;
+    text-align: center;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+}
