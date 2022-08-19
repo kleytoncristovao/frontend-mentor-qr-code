@@ -5,3 +5,9 @@
     font-weight: 700;
     color: hsl(218, 44%, 22%);
 }
+
+@media screen and (min-width: 900px) {
+    .principal__titulo {
+        font-size: 1.7rem;
+    }
+}

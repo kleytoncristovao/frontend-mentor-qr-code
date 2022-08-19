@@ -8,3 +8,9 @@
     line-height: 1.5rem;
     color: hsl(220, 15%, 55%);
 }
+
+@media screen and (min-width: 900px) {
+    .principal__paragrafo {
+        font-size: 1rem;
+    }
+}
